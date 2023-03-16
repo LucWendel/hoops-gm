@@ -92,31 +92,31 @@ class Dashboard extends StatelessWidget {
   }
 }
 
-class _DashboardState extends State<Dashboard> {
-  List _teams = [];
+// class _DashboardState extends State<Dashboard> {
+//   List _teams = [];
 
-  @override
-  void initState() {
-    super.initState();
-    startSeason();
-  }
+//   @override
+//   void initState() {
+//     super.initState();
+//     startSeason();
+//   }
 
-  void startSeason() {
-    // Initialize your fictional basketball league here
-    // You can create teams, assign players, etc.
+//   void startSeason() {
+//     // Initialize your fictional basketball league here
+//     // You can create teams, assign players, etc.
 
-    // Simulate the season
-    simulateSeason();
+//     // Simulate the season
+//     simulateSeason();
 
-    // Navigate to the Standings screen
-    Navigator.push(
-      context,
-      MaterialPageRoute(builder: (context) => Standings(teams: _teams)),
-    );
-  }
+//     // Navigate to the Standings screen
+//     Navigator.push(
+//       context,
+//       MaterialPageRoute(builder: (context) => Standings(teams: _teams)),
+//     );
+//   }
 
-  void simulateSeason() {
-    // Simulate the season using the data you have created
-    // You can simulate games, calculate stats, etc.
-    // Update the teams with their new records, stats, etc.
-  }
+//   void simulateSeason() {
+//     // Simulate the season using the data you have created
+//     // You can simulate games, calculate stats, etc.
+//     // Update the teams with their new records, stats, etc.
+//   }

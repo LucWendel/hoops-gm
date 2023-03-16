@@ -5,7 +5,7 @@ import 'package:hoops_gm/screens/front_office.dart';
 import 'package:hoops_gm/screens/league.dart';
 import 'package:hoops_gm/screens/news.dart';
 import 'package:hoops_gm/screens/history.dart';
-import 'package:hoops_gm/screens/tournament.dart';
+
 
 class Tournament extends StatelessWidget {
   @override

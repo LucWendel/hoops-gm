@@ -33,7 +33,7 @@ List<Team> _teams = [
     city: 'City 1',
     state: 'State 1',
     country: 'Country 1',
-    logoUrl: 'https://example.com/logo1.png',
+    logoUrl: 'iets/logo1.png',
     players: [],
   ),
     Team(
@@ -42,7 +42,7 @@ List<Team> _teams = [
     city: 'City 2',
     state: 'State 2',
     country: 'Country 2',
-    logoUrl: 'https://example.com/logo2.png',
+    logoUrl: 'iets/logo2.png',
     players: [],
   ),
     Team(
@@ -51,7 +51,7 @@ List<Team> _teams = [
     city: 'City 1',
     state: 'State 1',
     country: 'Country 1',
-    logoUrl: 'https://example.com/logo1.png',
+    logoUrl: 'iets/logo1.png',
     players: [],
   ),
     Team(
@@ -60,7 +60,7 @@ List<Team> _teams = [
     city: 'City 2',
     state: 'State 2',
     country: 'Country 2',
-    logoUrl: 'https://example.com/logo2.png',
+    logoUrl: 'iets/logo2.png',
     players: [],
   ),
     Team(
@@ -69,7 +69,7 @@ List<Team> _teams = [
     city: 'City 1',
     state: 'State 1',
     country: 'Country 1',
-    logoUrl: 'https://example.com/logo1.png',
+    logoUrl: 'iets/logo1.png',
     players: [],
   ),
     Team(
@@ -78,7 +78,7 @@ List<Team> _teams = [
     city: 'City 2',
     state: 'State 2',
     country: 'Country 2',
-    logoUrl: 'https://example.com/logo2.png',
+    logoUrl: 'iets/logo2.png',
     players: [],
   ),
     Team(
@@ -87,7 +87,7 @@ List<Team> _teams = [
     city: 'City 1',
     state: 'State 1',
     country: 'Country 1',
-    logoUrl: 'https://example.com/logo1.png',
+    logoUrl: 'iets/logo1.png',
     players: [],
   ),
     Team(
@@ -96,7 +96,7 @@ List<Team> _teams = [
     city: 'City 2',
     state: 'State 2',
     country: 'Country 2',
-    logoUrl: 'https://example.com/logo2.png',
+    logoUrl: 'iets/logo2.png',
     players: [],
   ),
     Team(
@@ -105,7 +105,7 @@ List<Team> _teams = [
     city: 'City 1',
     state: 'State 1',
     country: 'Country 1',
-    logoUrl: 'https://example.com/logo1.png',
+    logoUrl: 'iets/logo1.png',
     players: [],
   ),
     Team(
@@ -114,7 +114,7 @@ List<Team> _teams = [
     city: 'City 2',
     state: 'State 2',
     country: 'Country 2',
-    logoUrl: 'https://example.com/logo2.png',
+    logoUrl: 'iets/logo2.png',
     players: [],
   ),
     Team(
@@ -123,7 +123,7 @@ List<Team> _teams = [
     city: 'City 1',
     state: 'State 1',
     country: 'Country 1',
-    logoUrl: 'https://example.com/logo1.png',
+    logoUrl: 'iets/logo1.png',
     players: [],
   ),
     Team(
@@ -132,7 +132,7 @@ List<Team> _teams = [
     city: 'City 2',
     state: 'State 2',
     country: 'Country 2',
-    logoUrl: 'https://example.com/logo2.png',
+    logoUrl: 'iets/logo2.png',
     players: [],
   ),
     Team(
@@ -141,7 +141,7 @@ List<Team> _teams = [
     city: 'City 1',
     state: 'State 1',
     country: 'Country 1',
-    logoUrl: 'https://example.com/logo1.png',
+    logoUrl: 'iets/logo1.png',
     players: [],
   ),
     Team(
@@ -150,7 +150,7 @@ List<Team> _teams = [
     city: 'City 2',
     state: 'State 2',
     country: 'Country 2',
-    logoUrl: 'https://example.com/logo2.png',
+    logoUrl: 'iets/logo2.png',
     players: [],
   ),
     Team(
@@ -159,7 +159,7 @@ List<Team> _teams = [
     city: 'City 1',
     state: 'State 1',
     country: 'Country 1',
-    logoUrl: 'https://example.com/logo1.png',
+    logoUrl: 'iets/logo1.png',
     players: [],
   ),
     Team(
@@ -168,7 +168,7 @@ List<Team> _teams = [
     city: 'City 2',
     state: 'State 2',
     country: 'Country 2',
-    logoUrl: 'https://example.com/logo2.png',
+    logoUrl: 'iets/logo2.png',
     players: [],
   ),
     Team(
@@ -177,7 +177,7 @@ List<Team> _teams = [
     city: 'City 1',
     state: 'State 1',
     country: 'Country 1',
-    logoUrl: 'https://example.com/logo1.png',
+    logoUrl: 'iets/logo1.png',
     players: [],
   ),
     Team(
@@ -186,7 +186,7 @@ List<Team> _teams = [
     city: 'City 1',
     state: 'State 1',
     country: 'Country 1',
-    logoUrl: 'https://example.com/logo1.png',
+    logoUrl: 'iets/logo1.png',
     players: [],
   ),
     Team(
@@ -195,7 +195,7 @@ List<Team> _teams = [
     city: 'City 1',
     state: 'State 1',
     country: 'Country 1',
-    logoUrl: 'https://example.com/logo1.png',
+    logoUrl: 'iets/logo1.png',
     players: [],
   ),
     Team(
@@ -204,7 +204,7 @@ List<Team> _teams = [
     city: 'City 1',
     state: 'State 1',
     country: 'Country 1',
-    logoUrl: 'https://example.com/logo1.png',
+    logoUrl: 'iets/logo1.png',
     players: [],
   ),
     Team(
@@ -213,7 +213,7 @@ List<Team> _teams = [
     city: 'City 30',
     state: 'State 30',
     country: 'Country 30',
-    logoUrl: 'https://example.com/logo30.png',
+    logoUrl: 'iets/logo30.png',
     players: [],
   ),
   ];
